@@ -105,6 +105,7 @@ Priority levels:
 - **Low:** Combined Score < 3.0
 
 This approach reflects the idea that an attractive market alone is not sufficient: the quality of the individual commercial opportunity also matters.
+## Dashboard Screeshots
 
 ## Key Features
 
