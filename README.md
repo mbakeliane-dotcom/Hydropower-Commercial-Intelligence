@@ -143,6 +143,11 @@ The project demonstrates how Business Intelligence can move beyond descriptive r
 
 Rather than replacing managerial judgment, BI can provide a common analytical framework for comparing opportunities, identifying risk, allocating commercial resources and prioritizing markets.
 
+## Project Files
+
+- **Power BI Dashboard (.pbix):** Download the interactive report to explore the dashboard, analytical measures, and visualizations.
+- **Excel Scoring Model (.xlsx):** Explore the simulated commercial opportunity dataset, weighted scoring criteria, and portfolio prioritization framework.
+
 ## Disclaimer
 
 This project is a proof of concept created for academic and portfolio purposes.
