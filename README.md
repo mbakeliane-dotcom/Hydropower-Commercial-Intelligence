@@ -145,8 +145,8 @@ Rather than replacing managerial judgment, BI can provide a common analytical fr
 
 ## Project Files
 
-- **Power BI Dashboard (.pbix):** Download the interactive report to explore the dashboard, analytical measures, and visualizations.
-- **Excel Scoring Model (.xlsx):** Explore the simulated commercial opportunity dataset, weighted scoring criteria, and portfolio prioritization framework.
+- **Power BI Dashboard (.pbix):** [Download the interactive Power BI report](Hydropower%20Commercial%20Intelligence%20Dashboard%20%281%29.pbix)
+- **Excel Scoring Model (.xlsx):** [Download the simulated dataset and scoring model](Hydropower_Commercial_Intelligence_POC_Data.xlsx)
 
 ## Disclaimer
 
