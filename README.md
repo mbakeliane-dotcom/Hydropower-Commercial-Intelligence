@@ -105,7 +105,19 @@ Priority levels:
 - **Low:** Combined Score < 3.0
 
 This approach reflects the idea that an attractive market alone is not sufficient: the quality of the individual commercial opportunity also matters.
-## Dashboard Screeshots
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](Executive_Overview_Hydropower.png)
+
+### Opportunity Pre-Screening & Scoring
+![Opportunity Pre-Screening and Scoring](Opportunity_Pre-Screening%20%26%20Scoring.png)
+
+### Pricing & Risk
+![Pricing and Risk](Pricing%20%26%20Risk.png)
+
+### Market Targeting & Portfolio Prioritization
+![Market Targeting and Portfolio Prioritization](Market_Targeting%20%26%20Portfolio_Prioritization.png)
 
 ## Key Features
 
